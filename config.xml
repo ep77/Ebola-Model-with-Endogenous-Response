@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--SDM-Doc (Ver. 4.8.3.27364) configuration file: config-->
+<!--Created 3/20/2013 12:48 PM by wlauping-->
+<UserOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <richardsonRule>3</richardsonRule>
+  <graphHeight>384</graphHeight>
+  <graphWidth>572</graphWidth>
+  <graphLeftMargin>64</graphLeftMargin>
+  <graphBottomMargin>64</graphBottomMargin>
+  <graphFontSize>10</graphFontSize>
+  <graphMaxViewWidth>100</graphMaxViewWidth>
+  <graphHighlightX>1</graphHighlightX>
+  <graphHighlightY>1</graphHighlightY>
+  <show_Total_Variables>true</show_Total_Variables>
+  <show_Total_Number_of_State_Vars>true</show_Total_Number_of_State_Vars>
+  <show_Total_Number_of_Stocks>true</show_Total_Number_of_Stocks>
+  <show_Macros>true</show_Macros>
+  <show_separator_1>true</show_separator_1>
+  <show_Variables_with_Source_Information>true</show_Variables_with_Source_Information>
+  <show_Variables_function_sensitivity>true</show_Variables_function_sensitivity>
+  <show_Data_Lookup_Tables>true</show_Data_Lookup_Tables>
+  <show_separator_2>true</show_separator_2>
+  <show_Time_Unit>true</show_Time_Unit>
+  <show_Initial_Time>true</show_Initial_Time>
+  <show_Final_Time>true</show_Final_Time>
+  <show_save_per>true</show_save_per>
+  <show_Time_Step>true</show_Time_Step>
+  <show_separator_3>true</show_separator_3>
+  <show_Model_Is_Fully_Formulated>true</show_Model_Is_Fully_Formulated>
+  <show_Modeler_Defined_Groups>true</show_Modeler_Defined_Groups>
+  <show_VPM_File_Available>true</show_VPM_File_Available>
+  <show_Undocumented_Equations>true</show_Undocumented_Equations>
+  <show_Equations_with_Embedded_Data>true</show_Equations_with_Embedded_Data>
+  <show_Equations_With_Unit_Errors>true</show_Equations_With_Unit_Errors>
+  <show_Variables_Not_in_Any_View>true</show_Variables_Not_in_Any_View>
+  <show_Incompletely_Defined_Subscripts>true</show_Incompletely_Defined_Subscripts>
+  <show_Nonmonotonic_Lookup_Functions>true</show_Nonmonotonic_Lookup_Functions>
+  <show_Cascading_Lookup_Functions>true</show_Cascading_Lookup_Functions>
+  <show_If_Then_Else_Equations>true</show_If_Then_Else_Equations>
+  <show_Min_Or_Max_Equations>true</show_Min_Or_Max_Equations>
+  <show_Unused_Variables>true</show_Unused_Variables>
+  <show_Supplementary_Variables>true</show_Supplementary_Variables>
+  <show_Supplementary_Variables_Being_Used>true</show_Supplementary_Variables_Being_Used>
+  <show_Overly_Complex_Richardson>true</show_Overly_Complex_Richardson>
+  <show_Overly_Complex_Stock_Formulations>true</show_Overly_Complex_Stock_Formulations>
+  <usePathDefaults>true</usePathDefaults>
+  <createVariableIndex>true</createVariableIndex>
+  <addDescriptionsToIndex>true</addDescriptionsToIndex>
+  <writeSdmStrucOutput>false</writeSdmStrucOutput>
+  <createZipFile>true</createZipFile>
+  <graphDraw11>true</graphDraw11>
+</UserOptions>

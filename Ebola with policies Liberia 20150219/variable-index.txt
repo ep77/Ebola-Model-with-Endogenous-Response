@@ -1,0 +1,176 @@
+Absolute shortage in tracing personnel	
+Adjusted contact rate infectious population	
+All isolation capacity	
+All tracing personnel	
+Asymptomatic infections	
+Available isolation capacity	
+Average contact rate infectious population	
+Average development time isolation facilities	
+Average infectivity for medical staff	
+Average period critical condition	
+Average recovery time survivors	
+Average time staff active	
+Average time until burial	
+Average time until return diseased health workers	
+Behavior	
+Buried deceased population	
+Capacity isolation	
+Carrying capacity isolation available medical staff	
+Case fatality rate	
+Case fatality rate in isolation	
+Case fatality rate in isolation adjusted	
+Case fatality rate outside isolation	
+Case fatality rate outside isolation adjusted	
+Change in recognition rate	
+Change in relative infectivity in isolation due to experience	
+Change in virulence	
+Change in virulence per symptomatic EBOV case	
+Contact rate before funeral	
+Contact rate infectious population	
+Contact rate isolated population	
+Contact rates before funeral	
+Contacts to be traced	
+Contacts to be traced per isolated patient	
+Contacts traceable per tracer per day	
+Cumulative exposed cases	The cumulative number of EVD cases
+Decrease in relative infectivity in isolation	
+Delay order development new vaccines	
+Delay order isolation capacity development	
+Delay order new staff	
+Delay time development new vaccines	
+Doctors per nurse	
+Doubling compared to delay time foreign staff development	
+Doubling compared to development time isolation	
+Doubling time cases	Definition by John Sterman 2000, p. 269
+Downscaling isolation capacity	
+Downscaling mothballed capacity	
+Dying	
+Effect of self quarantining behavior	The factor by which the infection chance is reduced due to a change in behavior
+Effective recognition rate	
+Exposed population	
+Faction susceptible of total population	
+FINAL TIME	The final time for the simulation.
+Foreign staff in preparation	
+Foreign staff preparing to come	
+Fraction local population with correct specs	If indeed the recovered population cannot be infected anymore, they could be used for treating patients as well.
+Fraction normal vs self-quarantined	
+Fraction recovered population useful as medical staff	
+Fraction susceptible population useful as medical staff	
+Fractional growth rate cumulative cases	
+Immune population	
+Immunization	
+Importing of foreign medical staff	
+Increasing of cases	
+Incubation	
+Incubation period	
+Infecting	
+Infectious population	
+Infectious survived population	
+Initial dead before burial	
+Initial deceased population	
+Initial exposed population	
+Initial immune population	
+Initial infectious population	
+Initial isolated population	
+Initial isolation capacity	
+Initial isolation capacity in preparation	
+Initial medical staff	
+Initial mothballed isolation capacity	
+Initial recovered population	
+Initial relative infectivity in isolation	
+Initial relative susceptible hygienic population	
+Initial relative virulence	
+Initial staff in training	
+Initial susceptible population	
+INITIAL TIME	The initial time for the simulation.
+Initial tracing personnel	
+Initial tracing personnel in preparation	
+Initial vaccines	
+Initial vaccines in preparation	http://www.who.int/mediacentre/news/ebola/01-october-2014/en/index4.html
+Isolated infectious population	
+Isolated recovering	
+Isolated survived population	
+Isolated surviving	
+Isolation	
+Isolation capacity becoming available	
+Isolation capacity in preparation	
+Isolation capacity mothballed	
+Lifetime isolation capacity	
+LN 2	By definition
+Measured cumulative exposed cases	The cumulative number of measured EVD cases by the tracing officers
+Medical staff	
+Medical staff creating awareness	
+Medical staff finishing training	
+Medical staff in preparation	
+Medical staff leaving after active period	
+Medical staff needed	
+Medical staff needed now reactive	http://www.who.int/mediacentre/news/ebola/8-september-2014/en/
+Medical staff needed with proactive approach	
+Medical staff per bed	
+Medical staff per new case	200 - 250 per 70 beds. http://www.who.int/mediacentre/news/ebola/8-september-2014/en/. Should probably be other way around
+Medical staff preparing to return	
+Medical staff starting training	We assume that presently no additional domestic academically trained physiciens are available and that none will be trained domestically. All necessary doctors thus need to be imported
+Mothballing of isolation capacity	
+Necessary medical staff per bed	
+Net available isolation capacity	
+New isolation capacity needed	
+New isolation capacity needed provactive	
+New isolation capacity needed reactive	
+Non-isolated recovering	
+Non-isolated surviving	
+Number of asymptomatic infections per symptomatic infection	
+One day	By definition
+Patients leaving isolation	
+Population self-quarantining	
+Preparing new isolation capacity	
+Preparing time foreign staff	
+Preparing vaccines	
+Proactive starting time	
+Reactive or proactive	0 = reactive, ELSE = proactive
+Recognition rate diseased	
+Recognized new cases	
+Recovered population	
+Relative availability isolation capacity	
+Relative infectivity in isolation	
+Relative reduction in infectivity due to isolation	
+Relative sufficiency in active tracing personnel	
+Relative virulence factor	
+Reproduction ratio	
+Reproduction ratio per day	
+Safe dying and burying isolated	
+SAVEPER	The frequency with which output is stored.
+Shortage in medical staff	MIN ( MAX ( Medical staff needed now - Staff available or being prepared , 0 ) , Medical staff needed now )
+Staff available or being prepared	
+Staff getting ill	
+Sum all infectious patients	
+Susceptible population	
+Switch reactive or proactive	0 = reactive, ELSE = proactive
+Switch reduced virulence	
+TIME STEP	The time step for the simulation.
+Total alive population	
+Total incubation	
+Total isolated infectious population	
+Total non isolated infectious population	
+Total non-isolated infectious population parts	
+Total population	
+Tracing personnel	
+Tracing personnel becoming available	
+Tracing personnel in preparation	
+Tracing personnel leaving	
+Tracing personnel necessary	
+Tracing personnel necessary proactive	
+Tracing personnel necessary reactive	
+Tracing personnel preparing	
+Training time new staff	
+Unburied deceased population	
+Unsafe burying	
+Usage fraction isolation	
+Using vaccines	MIN(vacc per pers, vaccines/aministration time)
+Vaccination	
+Vaccination speed	
+Vaccine per person	
+Vaccines	
+Vaccines becoming available	
+Vaccines in preparation	
+Vaccines needed	
+Vaccines to be prepared	Waarom zo???
